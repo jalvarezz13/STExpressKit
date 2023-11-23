@@ -24,7 +24,7 @@ To start the development environment, follow these steps:
 2. Install dependencies with `npm install` or `yarn`
 3. Start the server using `npm start` or `yarn start`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result and the SuperTokens dashboard at [http://localhost:3000/auth/dashboard](http://localhost:3000/auth/dashboard).
+Open [http://localhost:3000/auth/dashboard](http://localhost:3000/auth/dashboard) with your browser to see the SuperTokens dashboard 🎢
 
 ## ⭐ Features
 
